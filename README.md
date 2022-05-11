@@ -5,7 +5,7 @@
 
 # 首先声明一下
 
-### 本项目为 https://github.com/Lbingyi/HerokuXray 大佬的heroku项目修改，因为有人反映同时fork二者会有冲突，我才将此重新上传改为本人的项目
+### 本项目为 https://github.com/dhnjum/vcfgvb大佬的heroku项目修改，因为有人反映同时fork二者会有冲突，我才将此重新上传改为本人的项目
 ### 不是剽窃，感谢Lbingyi大佬的付出，谢谢！
 #### 另外在此批评 github id ： `zzysite` 尊重他人智力成果 ，加上原作者的备注，谢谢
 
